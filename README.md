@@ -22,8 +22,7 @@ iPhone 13,iPhone 12,iPhone 11
     }
 Attach the attributes all behind the scopes(colors, frames, sizes, etc.)<br/>
 When it comes to user private info that need to be encrpted such as password, we use
-'''SecureField
-'''
+'SecureField'
 rather than using the regular
 '''
     TextField
