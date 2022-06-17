@@ -25,12 +25,14 @@ Close the sidebars on two sides<br/>
 iPhone 13,iPhone 12,iPhone 11
 # Content View
 [ContentView](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/ContentView1.png)<br/>
-    `NavigationView{`<br/>
-    `ZStack…`<br/>
-    `//design the overall background`<br/>
-    `VStack`<br/>
-    `//textfields`<br/>
-    `}`<br/>
+    ```swift
+     NavigationView{
+     ZStack…
+     //design the overall background
+     VStack
+     //textfields
+     }
+     ```
 Attach the attributes all behind the scopes(colors, frames, sizes, etc.)<br/>
 When it comes to user private info that need to be encrpted such as password, we use
 `SecureField`
