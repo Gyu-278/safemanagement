@@ -4,6 +4,7 @@ Simple Login Screen Project using Swift UI. <br/>
 [How properly upload Xcode projects on Github](http://irenebosque.com/how-to-xcode-and-github/)<br/>
 [Writing Github README](https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796)<br/>
 [Basic Markdown syntaxes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br/>
+[Creating Links in Markdown](https://anvilproject.org/guides/content/creating-links)<br/>
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 # Some Xcode Swift UI basics
 XCode->UI(user interface->publish app to App store->downloadable for users)<br/>
@@ -41,6 +42,7 @@ Download the project to local directory<br/>
 Xcode must be `13.4` and higher versions<br/>
 Compatible with MacOS Monterey `12.0` and higher versions<br/>
 # Initial Testing Result
-Both username and password authenticated: `screenshot 1.0` <br/>
+Both username and password authenticated: [`screenshot 1.0`](KrystalZhang612/SimpleLoginScreen)<br/>
 Username is authenticated while password is not: `screenshot 1.1`  <br/>
 Password is authenticated while username is not: `screenshot 1.2` <br/>
+
