@@ -19,6 +19,7 @@ Jump to:<br/>
 [Writing Github README](https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796)<br/>
 [Basic Markdown syntaxes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br/>
 [Creating Links in Markdown](https://anvilproject.org/guides/content/creating-links)<br/>
+[markdown-guide](https://gist.github.com/cuonggt/9b7d08a597b167299f0d)<br/>
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 # Some Xcode Swift UI basics
 XCode->UI(user interface->publish app to App store->downloadable for users)<br/>
