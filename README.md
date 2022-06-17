@@ -1,7 +1,9 @@
 # SimpleLoginScreen
 Simple Login Screen Project using Swift UI. <br/>
-# Tutorial uploading XCode project on Github:
-[Tutorial uploading XCode project on Github](http://irenebosque.com/how-to-xcode-and-github/)
+# Tutorial uploading XCode project on Github
+[How properly upload Xcode projects on Github](http://irenebosque.com/how-to-xcode-and-github/)<br/>
+[Basic Markdown syntaxes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br/>
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 # Some Xcode Swift UI basics: 
 XCode->UI(user interface->publish app to App store->downloadable for users)<br/>
 Create a new Xcode project->IOS->App<br/>
@@ -10,7 +12,7 @@ Setup project name/app name->Team as personal Apple ID->Organization name<br/>
 Unselected->create gitSource->create at a location<br/>
 Close the sidebars on two sides<br/>
 # Compatiability: 
-iPhone 13 
+iPhone 13,iPhone 12,iPhone 11
 # Content View:
     NavigationView{
     ZStack…
@@ -19,6 +21,32 @@ iPhone 13
     //textfields 
     }
 Attach the attributes all behind the scopes(colors, frames, sizes, etc.)<br/>
+When it comes to user private info that need to be encrpted such as password, we use 
+    SecureField
+rather than using the regular 
+    TextField
+to encrypt the user input into black bullet points. <br/>
+    NavigationLink{}
+allows us to redirect the authenticated and successfully logged in users to enter the user page, which is ShowingLoginScreen, allowing us to program the user login page. Append to set the navigationBarHidden to true to properly hide the navigation bar for better looking UI. <br/>
+For the UI background to be more compatible occupying the entire screen. <br/>
+Create the user authentication function after the navigation view. <br/>
+In the authentification function, use 
+    lowercased(...)
+method to not have case sensitive, then call the user authentication function in Button. 
+# Run-Time Testing:
+Click the play button right next to preview on UI <br/>
+Click the play button again to switch temporary testing off if want to go back programming. 
+# Method Running The Project:
+Download the project to local directory<br/>
+Xcode must be '''13.4''' and higher versions<br/>
+Compatible with MacOS Monterey '''12.0''' and higher versions<br/>
+
+
+
+
+
+
+    
 
 
 
