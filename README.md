@@ -24,7 +24,7 @@ Close the sidebars on two sides<br/>
 # Compatiability
 iPhone 13,iPhone 12,iPhone 11
 # Content View
-[ContentView](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/ContentView1.png)
+[ContentView](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/ContentView1.png)<br/>
     NavigationView{
     ZStack…
     //design the overall background
