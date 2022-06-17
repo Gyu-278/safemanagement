@@ -24,12 +24,12 @@ Close the sidebars on two sides<br/>
 # Compatiability
 iPhone 13,iPhone 12,iPhone 11
 # Content View
-[ContentView](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/ContentView1.png)<br/>
+[ContentView](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/ContentView1.png)
 ```swift
 NavigationView{
-ZStack…
+ZStack{...}
 //design the overall background
-VStack
+VStack{...}
 //textfields
 ```
 Attach the attributes all behind the scopes(colors, frames, sizes, etc.)<br/>
