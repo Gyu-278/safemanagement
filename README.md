@@ -4,7 +4,7 @@ Jump to:<br/>
 # Prerequisites:  
 [Tutorial uploading XCode project on Github](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#tutorial-uploading-xcode-project-on-github)<br/>
 [Some Xcode Swift UI basics](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#some-xcode-swift-ui-basics)<br/>
-[Compatiability](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#compatiability)<br/>
+[Compatiability](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#compatiability)
 # Build: 
 [Content View](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#content-view)<br/>
 [Run-Time Testing](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#run-time-testing)<br/>
