@@ -7,8 +7,7 @@ Jump to:<br/>
 [Content View](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#content-view)<br/>
 [Run-Time Testing](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#run-time-testing)<br/>
 [Method Running The Project](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#method-running-the-project)<br/>
-
-
+[Initial Testing Result](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#initial-testing-result)<br/>
 # Tutorial uploading XCode project on Github
 [How properly upload Xcode projects on Github](http://irenebosque.com/how-to-xcode-and-github/)<br/>
 [Writing Github README](https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796)<br/>
