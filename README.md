@@ -43,7 +43,6 @@ Download the project to local directory<br/>
 Xcode must be `13.4` and higher versions<br/>
 Compatible with MacOS Monterey `12.0` and higher versions<br/>
 # Initial Testing Result
-Both username and password authenticated: [`screenshot 1.0`]()<br/>
-Username is authenticated while password is not: [`screenshot 1.1`]() <br/>
-Password is authenticated while username is not: [`screenshot 1.2`]() <br/>
-
+Both username and password authenticated: [`screenshot 1.0.0`]() [`screenshot 1.0.1`]()<br/>
+Username is authenticated while password is not: [`screenshot 1.0.2`]()[`screenshot 1.0.3`]()<br/>
+Password is authenticated while username is not: [`screenshot 1.0.4`]()[`screenshot 1.0.5`]()<br/>
