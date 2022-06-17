@@ -6,6 +6,7 @@ Jump to:<br/>
 [Compatiability](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#compatiability)<br/>
 [Content View](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#content-view)<br/>
 [Run-Time Testing](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#run-time-testing)<br/>
+[Method Running The Project](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#method-running-the-project)<br/>
 
 
 # Tutorial uploading XCode project on Github
