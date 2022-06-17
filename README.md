@@ -21,9 +21,9 @@ iPhone 13,iPhone 12,iPhone 11
     //textfields 
     }
 Attach the attributes all behind the scopes(colors, frames, sizes, etc.)<br/>
-When it comes to user private info that need to be encrpted such as password, we use 
+When it comes to user private info that need to be encrpted such as password, we use <br/>
     SecureField
-rather than using the regular 
+rather than using the regular <br/>
     TextField
 to encrypt the user input into black bullet points. <br/>
     NavigationLink{}
