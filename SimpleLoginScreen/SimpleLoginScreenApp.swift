@@ -2,7 +2,7 @@
 //  SimpleLoginScreenApp.swift
 //  SimpleLoginScreen
 //
-//  Created by erika on 6/16/22.
+//  Created by Krystal Zhang on 6/16/22.
 //
 
 import SwiftUI
