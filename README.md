@@ -24,7 +24,7 @@ Close the sidebars on two sides<br/>
 # Compatiability
 iPhone 13,iPhone 12,iPhone 11
 # Content View
-[ContentView](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/ContentView1.png)<br/>
+[screenshot](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/ContentView1.png)<br/>
 [Creating and highlighting code blocks in Specific Template](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 ```swift
 NavigationView{
