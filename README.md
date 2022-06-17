@@ -1,7 +1,7 @@
 # SimpleLoginScreen
 Simple Login Screen Project using Swift UI. <br/>
 Jump to:<br/>
-[Tutorial uploading XCode project on Github](#Tutorial uploading XCode project on Github)
+[Tutorial uploading XCode project on Github](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#tutorial-uploading-xcode-project-on-github)
 # Tutorial uploading XCode project on Github
 [How properly upload Xcode projects on Github](http://irenebosque.com/how-to-xcode-and-github/)<br/>
 [Writing Github README](https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796)<br/>
