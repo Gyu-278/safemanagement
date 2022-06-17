@@ -4,6 +4,7 @@ Jump to:<br/>
 [Tutorial uploading XCode project on Github](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#tutorial-uploading-xcode-project-on-github)<br/>
 [Some Xcode Swift UI basics](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#some-xcode-swift-ui-basics)<br/>
 [Compatiability](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#compatiability)<br/>
+[Content View](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#content-view)<br/>
 
 
 # Tutorial uploading XCode project on Github
