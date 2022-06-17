@@ -9,7 +9,10 @@ Jump to:<br/>
 [Content View](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#content-view)<br/>
 [Run-Time Testing](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#run-time-testing)<br/>
 [Method Running The Project](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#method-running-the-project)<br/>
-[Initial Testing Result](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#initial-testing-result)
+[Initial Testing Result](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/README.md#initial-testing-result)<br/>
+# Contribution:
+[Author]()
+
 # Tutorial uploading XCode project on Github
 [How properly upload Xcode projects on Github](http://irenebosque.com/how-to-xcode-and-github/)<br/>
 [Writing Github README](https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796)<br/>
@@ -59,3 +62,8 @@ Compatible with MacOS Monterey `12.0` and higher versions<br/>
 Both username and password authenticated: [`screenshot 1.0.0`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.0.png)  [`screenshot 1.0.1`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.1.png)<br/>
 Username is authenticated while password is not: [`screenshot 1.0.2`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.2.png)  [`screenshot 1.0.3`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.3.png)<br/>
 Password is authenticated while username is not: [`screenshot 1.0.4`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.4.png)  [`screenshot 1.0.5`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.5.png)<br/>
+# Author
+Krystal Zhang <br/>
+https://github.com/KrystalZhang612
+
+
