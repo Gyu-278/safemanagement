@@ -21,10 +21,13 @@ iPhone 13,iPhone 12,iPhone 11
     //textfields 
     }
 Attach the attributes all behind the scopes(colors, frames, sizes, etc.)<br/>
-When it comes to user private info that need to be encrpted such as password, we use <br/>
-    SecureField
-rather than using the regular <br/>
+When it comes to user private info that need to be encrpted such as password, we use
+'''SecureField
+'''
+rather than using the regular
+'''
     TextField
+'''
 to encrypt the user input into black bullet points. <br/>
     NavigationLink{}
 allows us to redirect the authenticated and successfully logged in users to enter the user page, which is ShowingLoginScreen, allowing us to program the user login page. Append to set the navigationBarHidden to true to properly hide the navigation bar for better looking UI. <br/>
