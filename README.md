@@ -15,7 +15,8 @@ Unselected->create gitSource->create at a location<br/>
 Close the sidebars on two sides<br/>
 # Compatiability
 iPhone 13,iPhone 12,iPhone 11
-[# Content View](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/ContentView1.png)
+# Content View
+[ContentView](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/ContentView1.png)
     NavigationView{
     ZStack…
     //design the overall background
