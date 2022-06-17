@@ -2,6 +2,7 @@
 Simple Login Screen Project using Swift UI. <br/>
 # Tutorial uploading XCode project on Github
 [How properly upload Xcode projects on Github](http://irenebosque.com/how-to-xcode-and-github/)<br/>
+[Writing Github README](https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796)<br/>
 [Basic Markdown syntaxes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br/>
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 # Some Xcode Swift UI basics: 
@@ -30,7 +31,8 @@ For the UI background to be more compatible occupying the entire screen. <br/>
 Create the user authentication function after the navigation view. <br/>
 In the authentification function, use 
     `lowercased(...)`
-method to not have case sensitive, then call the user authentication function in Button. 
+method to not have case sensitive<br/>
+Then call the user authentication function in Button. 
 # Run-Time Testing:
 Click the play button right next to preview on UI <br/>
 Click the play button again to switch temporary testing off if want to go back programming. 
@@ -38,8 +40,6 @@ Click the play button again to switch temporary testing off if want to go back p
 Download the project to local directory<br/>
 Xcode must be `13.4` and higher versions<br/>
 Compatible with MacOS Monterey `12.0` and higher versions<br/>
-
-
 
 
 
