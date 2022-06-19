@@ -58,8 +58,8 @@ Click the play button right next to preview on UI <br/>
 Click the play button again to switch temporary testing off if want to go back programming. 
 # Method Running The Project
 Download the project to local directory<br/>
-Xcode must be `13.4` and higher versions<br/>
-Compatible with MacOS Monterey `12.0` and higher versions<br/>
+Xcode must be `13.4` or higher versions<br/>
+Compatible with MacOS Monterey `12.0` or higher versions<br/>
 # Initial Testing Result
 Both username and password authenticated: [`screenshot 1.0.0`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.0.png)  [`screenshot 1.0.1`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.1.png)<br/>
 Username is authenticated while password is not: [`screenshot 1.0.2`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.2.png)  [`screenshot 1.0.3`](https://github.com/KrystalZhang612/SimpleLoginScreen/blob/main/screenshot1.0.3.png)<br/>
