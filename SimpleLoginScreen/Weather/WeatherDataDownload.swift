@@ -11,7 +11,7 @@ import CoreLocation
 class WeatherDataDownload {
     
     // 발급받은 OpenWeather API 키를 입력하세요
-    private let API_KEY = "d6eece567014fb74cf9295bf299bbfeb"
+    private let API_KEY = "d6eece567014fb74cf9295bf299bbfe"
 
     func getTomorrowWeather(location: CLLocationCoordinate2D) async throws -> OpenWeatherResponse {
         let urlString = "https://api.openweathermap.org/data/2.5/forecast?lat=\(location.latitude)&lon=\(location.longitude)&appid=\(API_KEY)&units=metric&lang=kr"
