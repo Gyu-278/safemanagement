@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  SimpleLoginScreen
-//
-//  Created by Krystal Zhang on 6/16/2022
-//
-
 import SwiftUI
 
 struct ContentView: View {
@@ -26,23 +19,23 @@ struct ContentView: View {
         NavigationView{
             //give UI some nice background
             ZStack{
-                //we want a full green-colored screen
-                Color.green
+                Color.blue
                     .ignoresSafeArea()
                 //outter layer - opacity circle
                 Circle()
-                    .scale(1.7)
-                    .foregroundColor(.white.opacity(0.15))
+                    .scale(2.0)
+                    .foregroundColor(.white.opacity(0.3))
                 //inner layer - bright white circle
                 Circle()
                     .scale(1.35)
                     .foregroundColor(.white)
                 
                 VStack{
-                    Text("Login")
+                    Text("Safety \n Management")
                         .font(.largeTitle)
                         .bold()
                         .padding()
+                        .multilineTextAlignment(.center)
                     //username filling-in blank
                     //binding type of username attribute
                     TextField("Enter Your Username", text: $username)
@@ -85,14 +78,13 @@ struct ContentView: View {
                     //provide a navigation link can send user to user page
                     //if they successfully login
                     //so we can program the login page USING THIS LINK
-                    NavigationLink(destination: Text("You are successfully logged in@\(username)"), isActive: $showingLoginScreen){
-                        //make it invisible here
-                        //so it doesnt crash the program
-                        EmptyView()
+                    NavigationLink(
+                        destination: MainView(username: username),
+                        isActive: $showingLoginScreen
+                        ) {
+                            EmptyView()
                     }
-                    
                 }
-                
             }
             .navigationBarHidden(true)
 
@@ -103,11 +95,11 @@ struct ContentView: View {
     //use lowercased() to ignore cases(prevent case sensitive)
     func authenticateUser(username: String, password: String){
         //username check
-        if username.lowercased() == "krystalzhang612" {
+        if username.lowercased() == "group4" {
             //correct+authenticated username, set wrongUsername to 0
             wrongUsername = 0
             //password check
-            if password.lowercased() == "abc123"{
+            if password.lowercased() == "group4"{
                 wrongPassword = 0
                 //both username and password are correct and authenticated
                 //show user the login screen

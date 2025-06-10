@@ -3,10 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 55;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		662863302DD48C8B00284757 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6628632F2DD48C8400284757 /* MainView.swift */; };
 		6E4A900E285C1EFA00B5EAA5 /* SimpleLoginScreenApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4A900D285C1EFA00B5EAA5 /* SimpleLoginScreenApp.swift */; };
 		6E4A9010285C1EFA00B5EAA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4A900F285C1EFA00B5EAA5 /* ContentView.swift */; };
 		6E4A9012285C1EFC00B5EAA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E4A9011285C1EFC00B5EAA5 /* Assets.xcassets */; };
@@ -14,12 +15,20 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6628632F2DD48C8400284757 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		6E4A900A285C1EFA00B5EAA5 /* SimpleLoginScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleLoginScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E4A900D285C1EFA00B5EAA5 /* SimpleLoginScreenApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleLoginScreenApp.swift; sourceTree = "<group>"; };
 		6E4A900F285C1EFA00B5EAA5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6E4A9011285C1EFC00B5EAA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E4A9014285C1EFC00B5EAA5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		66C731192DEC46F900DBFFA3 /* Weather */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Weather; sourceTree = "<group>"; };
+		66C731392DEC595200DBFFA3 /* Manual */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Manual; sourceTree = "<group>"; };
+		66C731632DEED62E00DBFFA3 /* SafeManagement */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = SafeManagement; sourceTree = "<group>"; };
+		66F9D3A62DF00F37004EFFC0 /* Community */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Community; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		6E4A9007285C1EFA00B5EAA5 /* Frameworks */ = {
@@ -51,6 +60,11 @@
 		6E4A900C285C1EFA00B5EAA5 /* SimpleLoginScreen */ = {
 			isa = PBXGroup;
 			children = (
+				6628632F2DD48C8400284757 /* MainView.swift */,
+				66F9D3A62DF00F37004EFFC0 /* Community */,
+				66C731632DEED62E00DBFFA3 /* SafeManagement */,
+				66C731392DEC595200DBFFA3 /* Manual */,
+				66C731192DEC46F900DBFFA3 /* Weather */,
 				6E4A900D285C1EFA00B5EAA5 /* SimpleLoginScreenApp.swift */,
 				6E4A900F285C1EFA00B5EAA5 /* ContentView.swift */,
 				6E4A9011285C1EFC00B5EAA5 /* Assets.xcassets */,
@@ -81,6 +95,12 @@
 			buildRules = (
 			);
 			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				66C731192DEC46F900DBFFA3 /* Weather */,
+				66C731392DEC595200DBFFA3 /* Manual */,
+				66C731632DEED62E00DBFFA3 /* SafeManagement */,
+				66F9D3A62DF00F37004EFFC0 /* Community */,
 			);
 			name = SimpleLoginScreen;
 			productName = SimpleLoginScreen;
@@ -137,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				662863302DD48C8B00284757 /* MainView.swift in Sources */,
 				6E4A9010285C1EFA00B5EAA5 /* ContentView.swift in Sources */,
 				6E4A900E285C1EFA00B5EAA5 /* SimpleLoginScreenApp.swift in Sources */,
 			);
