@@ -1,5 +1,5 @@
-# Simple Login Screen
-Simple Login Screen Project using Swift UI. <br/>
+# SafeManagement with Simple Login Screen
+SafeManagement Project with Simple Login using Swift UI. <br/>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c8c5d3b8-39b8-4a9a-b6db-4a4d7b4d715f" width="400" height="870">
   <img src="https://github.com/user-attachments/assets/e48f7b7e-aa59-4350-80a1-d5ff275acb65" width="400" height="870">
